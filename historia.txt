@@ -1,1 +1,1 @@
-esta es una prueba en la primera clase de git y github y ahora ya hice mi primer commit
+esta es una prueba en la primera clase de git y github y ahora ya hice mi segundo commit
