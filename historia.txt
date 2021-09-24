@@ -1,1 +1,2 @@
-esta es una prueba en la primera clase de git y github y ahora ya hice mi segundo commit y obra maestra
+esta es una prueba en la primera clase de git y github
+ya se me hizo tarde
