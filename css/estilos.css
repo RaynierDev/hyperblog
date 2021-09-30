@@ -51,3 +51,9 @@ body
     background: #DDD;
     padding: 1em;
 }
+
+#imagen
+{
+    width: 20px;
+    vertical-align: middle;
+}
