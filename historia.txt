@@ -2,8 +2,3 @@ estoy editando en mi mi fork
 creo que ya cambie de llave
 esta es una prueba en la primera clase de git y github
 ya se me hizo tarde pero ahora estoy en el usuario de milka
-main 1
-
-
-
-main2
